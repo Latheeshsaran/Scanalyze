@@ -29,6 +29,9 @@ Frontend:
 Framework: Next.js 15.1.0, React 19
 Styling: Tailwind CSS, Radix UI
 
+![WhatsApp Image 2025-03-15 at 17 01 09_5a369307](https://github.com/user-attachments/assets/5dea3114-38fc-45c6-8d17-923e78c407dd)
+
+
 Backend:
 AI/ML Models:
 MRI, CT, X-ray Analysis: TensorFlow.js-based models.
