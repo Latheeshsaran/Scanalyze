@@ -37,3 +37,43 @@ NLP for medical queries: TensorFlow.js-based text processing.
 
 
 <h2>SYSTEM ARCHITECTURE</h2>
+
+The system is designed with a robust and scalable AI-driven architecture to facilitate automated medical scan analysis and NLP-based query handling, ensuring efficient and accurate diagnostics.
+
+Image Upload – Users upload MRI, CT, or X-ray scans via a web-based interface.
+
+Preprocessing & Model Selection – The system processes the image and selects the appropriate deep learning model based on the scan type.
+
+AI-Based Image Analysis – The selected TensorFlow.js model performs anomaly detection and classification.
+
+Result Interpretation (NLP Integration) – An NLP model converts AI-generated insights into human-readable summaries.
+
+Dashboard Visualization – Results are displayed on an interactive UI, providing clear diagnostic insights.
+
+User Query Handling – Users can ask medical-related questions, and the NLP model provides AI-driven explanations.
+
+
+<h2>FUTURE ENHANCEMENT</h2>
+Enabling Patients to Understand Their Reports Better
+
+Simplified Report Summaries
+
+Visual Explanations
+
+Interactive Chatbot for Patients
+
+Treatment Recommendations
+
+Multilingual Support
+
+Reminders and Follow-Ups
+
+Extending AI Capabilities Beyond MRI, CT, and X-rays
+
+Unified Dashboard
+
+Cross-Report Insights
+
+Customizable Alerts
+
+Trend Analysis
