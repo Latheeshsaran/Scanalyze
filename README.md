@@ -1,4 +1,4 @@
-<h1>SCANALYZE</h1>
+<h1>Medical Scan Analysis</h1>
 
 
 
